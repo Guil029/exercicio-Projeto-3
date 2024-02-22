@@ -1,0 +1,12 @@
+body {
+    font-family: Oswald, sans-serif;
+}
+
+.navbar {
+    background-color: #52bee2;
+}
+
+#header .nav .nav-link.active {
+    background-color: #fff;
+    color: #7e9da7;
+}
