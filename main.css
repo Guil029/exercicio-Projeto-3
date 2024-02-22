@@ -3,10 +3,10 @@ body {
 }
 
 .navbar {
-    background-color: #52bee2;
+    background-color: #c470a7;
 }
 
 #header .nav .nav-link.active {
     background-color: #fff;
-    color: #7e9da7;
+    color: #ad9c9c;
 }
