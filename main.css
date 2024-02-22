@@ -8,5 +8,12 @@ body {
 
 #header .nav .nav-link.active {
     background-color: #fff;
-    color: #ad9c9c;
+    color: #c470a7;
+}
+
+#header .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
 }
