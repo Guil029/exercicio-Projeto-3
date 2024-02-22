@@ -17,3 +17,7 @@ body {
 .nav-cardapio .nav-link.active:hover {
     color: #fff;
 }
+
+.text-colored {
+    color: #e15f41;
+}
