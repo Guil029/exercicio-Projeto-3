@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #c470a7;
+    background-color: #9a4e80;
 }
 
 #header .nav .nav-link.active {
     background-color: #fff;
-    color: #c470a7;
+    color: #9a4e80;
 }
 
 #header .nav .nav-link,
@@ -19,7 +19,7 @@ body {
 }
 
 .text-colored {
-    color: #e15f41;
+    color: #9a4e80;
 }
 
 #carousel {
