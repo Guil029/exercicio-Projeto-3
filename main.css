@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #9a4e80;
+    background-color: #a07070;
 }
 
 #header .nav .nav-link.active {
     background-color: #fff;
-    color: #9a4e80;
+    color: #a07070;
 }
 
 #header .nav .nav-link,
@@ -29,5 +29,5 @@ body {
 #carousel .carousel-inner .carousel-item img {
     width: 100%;
     height: auto;       /* Permitir que a altura das imagens seja ajustada automaticamente para manter a proporção */
-    max-height: 800px;  /* Definir uma altura máxima para as imagens */
+    max-height: 700px;  /* Definir uma altura máxima para as imagens */
 }
